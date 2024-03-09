@@ -26,4 +26,15 @@ What's our potion made of, you ask?
 - Join our **Discord** spell circle [here](https://discord.com/invite/celo)
 - Become part of our **Ecosystem** by signing the grand scroll [here](https://docs.celo.org/community/grant-playbook)
 
-We can't wait to have you join our quest to weave a more inclusive, accessible, and decentralized future with Celo. Together, we shall embark on epic quests and create magic that will be sung about through the ages! 🌈✨
+## How to get started as a developer on Celo ?
+
+1. **Start with basics** - Understand blockchain technology by going through resources like [This](https://docs.soliditylang.org/en/v0.8.24/)
+2. **Learn about Celo** - Start by understanding how Celo works through documentation available at [Here](https://docs.celo.org/)
+3. **Start with Solidity basics** - Start by familiarizing yourself with the  basics of smart contract development in Solidity you can find resources like [This here](https://solidity-by-example.org/)
+4. **Celo Composer** - with Celo Composer Boilerplate [Here](https://github.com/celo-org/celo-composer)
+5. **Celo GitHub** - Check out the Celo GitHub [Link Here](https://github.com/celo-org)
+
+We can't wait to have you join our quest to weave a more inclusive, accessible, and decentralized future with Celo. 
+Together, we shall embark on epic quests and create magic that will be sung about through the ages! 🌈✨
+
+_**Let's BUIDL with Purpose!!!**
